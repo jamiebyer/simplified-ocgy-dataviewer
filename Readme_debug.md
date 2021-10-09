@@ -22,3 +22,7 @@ that they only need to read the data, while our workers need to both read and wr
 Solution to try:  enclose that initializer in a function, then call the function here:
 https://github.com/phaustin/simplified-ocgy-dataviewer/blob/main/app.py#L103  so that each worker
 gets a unique copy.
+<<<<<<< HEAD
+=======
+
+>>>>>>> be35ca2cadc0b658e88a5412f7bfc876c43b379e
